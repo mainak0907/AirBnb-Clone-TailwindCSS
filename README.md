@@ -5,7 +5,7 @@
 
 A beautiful and responsive Airbnb clone built with HTML, CSS, and Tailwind CSS. This project aims to recreate the user interface of Airbnb's homepage to showcase the power and flexibility of Tailwind CSS.
 
-![Airbnb Clone Screenshot](demo.png)
+<img width="959" alt="image" src="https://github.com/mainak0907/AirBnb-Clone-TailwindCSS/assets/88925745/a1c421cc-55a5-42c9-890b-91c089425b00">
 
 ## Features
 
