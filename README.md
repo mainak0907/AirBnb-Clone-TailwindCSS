@@ -17,7 +17,7 @@ A beautiful and responsive Airbnb clone built with HTML, CSS, and Tailwind CSS. 
 
 ## Live Demo
 
-Check out the live demo: [Airbnb Clone]([https://air-bnb-clone-tailwind-css.vercel.app/])
+Check out the live demo: [Airbnb Clone](https://air-bnb-clone-tailwind-css.vercel.app/)
 
 ## Getting Started
 
